@@ -245,7 +245,7 @@ onBeforeUnmount(() => {
           <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
           <div>
             <p class="kicker">ARCADE / 01</p>
-            <h1 id="game-title">霓虹贪吃蛇</h1>
+            <h1 id="game-title">爆炫贪吃蛇</h1>
           </div>
         </div>
 
