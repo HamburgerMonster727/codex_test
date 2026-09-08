@@ -258,7 +258,7 @@ onBeforeUnmount(() => {
       <div class="content-grid">
         <aside class="score-panel" aria-label="游戏数据">
           <div class="score-block primary-score">
-            <span>当前得分</span>
+            <span>吃了多少个</span>
             <strong>{{ String(game.score).padStart(2, '0') }}</strong>
           </div>
           <div class="score-block">
