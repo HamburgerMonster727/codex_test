@@ -262,7 +262,7 @@ onBeforeUnmount(() => {
             <strong>{{ String(game.score).padStart(2, '0') }}</strong>
           </div>
           <div class="score-block">
-            <span>最高纪录</span>
+            <span>最高得分</span>
             <strong>{{ String(game.highScore).padStart(2, '0') }}</strong>
           </div>
           <div class="speed-block">
